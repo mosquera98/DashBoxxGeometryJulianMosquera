@@ -1,4 +1,4 @@
-package com.DashBoxGeometryJulianMosquera.objectos;
+package com.DashBoxGeometryJulianMosquera.objetos;
 
 import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.physics.box2d.*;
