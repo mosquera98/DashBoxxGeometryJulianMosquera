@@ -6,7 +6,6 @@ public class Caja extends Objeto {
 
     public Caja (float anchoForma, float altoForma, float posicionX, float posicionY, World world) {
         super(anchoForma, altoForma, posicionX, posicionY, world);
-        // ¡No necesitas hacer nada más aquí! El padre se encarga de llamar a los métodos.
     }
 
     @Override

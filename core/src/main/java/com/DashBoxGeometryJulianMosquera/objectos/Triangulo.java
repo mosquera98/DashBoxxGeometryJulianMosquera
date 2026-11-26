@@ -13,7 +13,6 @@ public class Triangulo extends Objeto {
 
     public Triangulo(float anchoForma, float altoForma, float posicionX, float posicionY, World world) {
         super(anchoForma, altoForma, posicionX, posicionY, world);
-        //El padre se encarga de llamar a los métodos.
     }
 
     @Override
